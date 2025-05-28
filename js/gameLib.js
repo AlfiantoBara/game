@@ -9,7 +9,6 @@
 	31 juli 2021	: penambahan fitur RPG
 	31 okt 2022		: penambahan fitur RPG v2
 	31 Juni 2023	: penambahan fitur RPG v2 --> add item
- ppp 
 //----------------------------------------------------------------------------------*/
 	var version = "0.22.1";
 	var dataGambar = {};
